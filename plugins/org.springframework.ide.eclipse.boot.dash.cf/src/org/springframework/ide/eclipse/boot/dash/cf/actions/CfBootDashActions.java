@@ -10,6 +10,7 @@
  *******************************************************************************/
 package org.springframework.ide.eclipse.boot.dash.cf.actions;
 
+import org.springframework.ide.eclipse.boot.dash.actions.ToggleBootDashModelConnection;
 import org.springframework.ide.eclipse.boot.dash.di.SimpleDIContext;
 import org.springframework.ide.eclipse.boot.dash.liveprocess.LiveProcessCommandsExecutor;
 import org.springframework.ide.eclipse.boot.dash.livexp.MultiSelection;
